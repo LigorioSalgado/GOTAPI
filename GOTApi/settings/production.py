@@ -10,7 +10,7 @@ DATABASES = {
         'PORT': '5432'
     }
 }
-
+STATIC_URL = '/static/'
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.9/howto/static-files/
 
